@@ -8,6 +8,7 @@ cd send_g-code_to_klipper
 sudo ./install_sendg.sh
 ```
 //usr/local/bin/sendgとして保存されます。
+インストール用シェルスクリプトを実行しなくてもsend_gcode.shを実行ファイルとして使うことで、動作確認ができます。
 
 ## 機能
 
