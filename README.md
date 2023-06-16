@@ -1,4 +1,4 @@
-# send_g_code_to_klipper
+# send_g-code_to_klipper
 
 このリポジトリは、Klipper 3DプリンターにG-codeを送信するためのシェルスクリプトを提供します。
 
