@@ -7,6 +7,7 @@
 cd send_g-code_to_klipper
 sudo ./install_sendg.sh
 ```
+//usr/local/bin/sendgとして保存されます。
 
 ## 機能
 
