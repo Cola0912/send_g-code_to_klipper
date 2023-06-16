@@ -27,6 +27,7 @@ sendg printer_name g28
 ```bash
 sendg add printer_name api_key
 ```
+APIキーは/usr/local/bin/api_key.confとして保存されます。
 
 ### APIキーを削除
 ```bash
