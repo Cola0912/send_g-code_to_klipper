@@ -13,13 +13,14 @@
 ## 使い方
 
 ### G-codeを送信
-
 ```bash
 ./sendg printer_name "G28"
+
 
 ### APIキーを追加
 ```bash
 ./sendg add printer_name "api_key"
+
 
 ### APIキーを削除
 ./sendg del printer_name
